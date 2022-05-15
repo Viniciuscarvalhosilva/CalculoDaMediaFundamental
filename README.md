@@ -1,2 +1,2 @@
 # CalculoDaMediaFundamental
-Mostrar se aluno do ensino fundamental esta APROVADO, REPROVADO ou de RECUPERAÇÃO.
+Mostrar se aluno foi APROVADO,REPROVADO ou está de RECUPERACAO.
