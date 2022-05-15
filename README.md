@@ -19,3 +19,5 @@ Mostrar se aluno foi APROVADO,REPROVADO ou está de RECUPERACAO.
 		Se não
 		exibe 'FIM'
 fim
+
+![Fluxograma](https://user-images.githubusercontent.com/64235507/168470529-54f02744-d92a-411e-9004-ea5738979cb2.png)
